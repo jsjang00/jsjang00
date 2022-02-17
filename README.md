@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Hime00
-- 👀 I’m interested in developing games
-- 🌱 I’m currently learning how to make online games using Unreal Engine 4 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jjs4502@naver.com
 
 <!---
